@@ -3,3 +3,5 @@
 3. ServletFilter는 Chain 방식으로 동작
 4. CORS 
 5. AOP (@Transactional)
+6 기본적으로 ServletFilter 에는 순서가 없음
+- 순서가 서로 달라도 결과는 똑같아야 한다.
