@@ -1,3 +1,11 @@
 1. 인터페이스를 기반으로 설계도 
 2. 그 다음 구현체
 3. @Autowired
+4. DI를 안하면..
+  - 실행중에 변경 불가능
+  - 테스트 힘듬
+5. DI : 외부에서 의존성 주입
+
+참고자료.
+
+1. Working Effectively with Legacy Code
